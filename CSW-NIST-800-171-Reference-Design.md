@@ -49,7 +49,7 @@ Cisco Secure Workload (CSW) is a **workload protection platform**. A lightweight
 
 **Console areas:** Investigate (inventory, flows, vulns) · Defend/Segmentation (policy) · Manage (agents) · Platform (connectors) · Administration (audit log)
 
-**Read next:** [Compliance evidence playbook](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/docs/compliance-evidence-playbook.md) (full step-by-step) · [About CSW](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/docs/about-csw.md) (platform intro)
+**Read next:** [Compliance evidence playbook](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/docs/compliance-evidence-playbook.md) (full step-by-step) · [About CSW](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/docs/about-csw.md) (platform intro)
 
 ---
 
@@ -502,10 +502,10 @@ Map exported events to your logging standard. Minimum useful fields:
 
 ## Appendix C — Related Framework Runbooks
 
-- [NIST SP 800-53 Rev. 5](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/NIST-800-53/CSW-NIST-800-53-Technical-Runbook.md) — federal control catalog alignment at AC, AU, CM, IR, RA, SC, SI.
-- [CMMC 2.0](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/CMMC-2/CSW-CMMC-Technical-Runbook.md) — assessment-oriented CUI scope patterns and Level 2 practice mapping (verify Rev. 2 vs. Rev. 3 contract baseline).
-- [NIST SP 800-207](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/NIST-800-207/CSW-NIST-800-207-Technical-Runbook.md) — Zero Trust architectural context for segmentation and telemetry.
-- [FedRAMP](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/FedRAMP/CSW-FedRAMP-Technical-Runbook.md) — when CUI processing shares infrastructure with FedRAMP-style packages.
+- [NIST SP 800-53 Rev. 5](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/NIST-800-53/CSW-NIST-800-53-Technical-Runbook.md) — federal control catalog alignment at AC, AU, CM, IR, RA, SC, SI.
+- [CMMC 2.0](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/CMMC-2/CSW-CMMC-Technical-Runbook.md) — assessment-oriented CUI scope patterns and Level 2 practice mapping (verify Rev. 2 vs. Rev. 3 contract baseline).
+- [NIST SP 800-207](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/NIST-800-207/CSW-NIST-800-207-Technical-Runbook.md) — Zero Trust architectural context for segmentation and telemetry.
+- [FedRAMP](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/FedRAMP/CSW-FedRAMP-Technical-Runbook.md) — when CUI processing shares infrastructure with FedRAMP-style packages.
 
 ---
 
@@ -521,4 +521,4 @@ Map exported events to your logging standard. Minimum useful fields:
 
 ---
 
-*Part of the Cisco Secure Workload compliance reference-design series. Umbrella index: [CSW-Compliance-Mapping](https://github.com/chandrapati/CSW-Compliance-Mapping).*
+*Part of the Cisco Secure Workload compliance reference-design series. Umbrella index: [CSW-Compliance-Mapping](https://github.com/chandrapati/CSW-Compliance-Reference-Designs).*

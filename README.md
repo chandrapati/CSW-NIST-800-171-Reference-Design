@@ -127,4 +127,4 @@ Authoritative source(s) for **NIST SP 800-171 Rev. 3**. Always validate control 
 
 This repository is for informational and planning purposes. It is **not** legal, regulatory, audit, or certification advice, and it is **not** a NIST SP 800-171 Rev. 3 attestation. Validate all control references against the current official NIST SP 800-171 Rev. 3 text ([official source](https://csrc.nist.gov/pubs/sp/800/171/r3/final)), your environment, and your qualified assessor. Replace any bracketed fields before customer delivery.
 
-*Part of the Cisco Secure Workload compliance reference-design series. Umbrella index: [CSW-Compliance-Mapping](https://github.com/chandrapati/CSW-Compliance-Mapping).*
+*Part of the Cisco Secure Workload compliance reference-design series. Umbrella index: [CSW-Compliance-Mapping](https://github.com/chandrapati/CSW-Compliance-Reference-Designs).*
